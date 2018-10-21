@@ -18,13 +18,15 @@ html {
   height: 1.5em;
 }
 
+div {
+  padding: 1rem;
+}
+
 button {
   font-size: inherit;
 }
 
-/*div {
-  padding: 1rem;
-}
+/*
 
 button {
   border: 0;

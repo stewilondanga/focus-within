@@ -26,8 +26,6 @@ button {
   font-size: inherit;
 }
 
-/*
-
 button {
   border: 0;
   background: #000;
@@ -38,7 +36,7 @@ button {
   outline-offset: 3rem;
 }
 
-button:focus {
+/*button:focus {
   outline-color: blue;
   outline-offset: 0;
 }

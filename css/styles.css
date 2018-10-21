@@ -36,12 +36,12 @@ button {
   outline-offset: 3rem;
 }
 
-/*button:focus {
+button:focus {
   outline-color: blue;
   outline-offset: 0;
 }
 
-button.solution:not(:focus) {
+/*button.solution:not(:focus) {
   transition-duration: 0s;
 }
 
